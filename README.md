@@ -6,7 +6,7 @@ I implement data solutions for both onPremise Infrastructure and Cloud services.
 
 * Programing Language: (Python) | Databases (MongoDB and MySQL)
 * Distributed Framework (Spark, Hadoop, Hive, Kafka) | Workflow Management(Airflow)
-* AWS Services (S3 bucket, AWS Lambda, AWS Glue, DynamoDB, Redshift and EC2)
+* AWS Services (S3 bucket, AWS Lambda, AWS Glue, CloudWatch, SNS, IAM, DynamoDB, Redshift and EC2)
 * Build Tools & Containers (Docker)
 * Code Management and Documentation (Git and GitHub Action)
 
