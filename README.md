@@ -20,7 +20,7 @@ I implement data solutions for both onPremise Infrastructure and Cloud services.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/somto-muogboh-28a5191ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somto-muogboh-28a5191ab" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mobodott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mobodott" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mobosomto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mobodott" height="30" width="40" /></a>
 </p>
 
 * Planning to be certified as an AWS Data Engineer as soon as possible.
