@@ -1,6 +1,6 @@
 
 <h3 align="center">Hey, I'm Mobo </h3>
-<h2>I'm a Data Engineer interested in enabling organizations to make actual data driven decisions!</h2>
+<h2>I'm a Data Engineer interested in enabling organizations make actual data driven decisions!</h2>
 
 I implement data solutions for both onPremise Infrastructure and Cloud services. I have an experience in data modeling and ETL pipelines. I ensure data quality and reliability while adhering to industry best practices. I am a collaborative problem-solver who can work with stakeholders to deliver scalable and secure data.
 
